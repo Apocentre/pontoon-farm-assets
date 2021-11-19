@@ -1,0 +1,11 @@
+{
+  "name": "PancakeSwap Token",
+  "symbol": "CAKE",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0xeB9E05539E86bE6825F01108Ed11A1D15eC73398"
+}

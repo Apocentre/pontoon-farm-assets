@@ -1,0 +1,12 @@
+{
+  "name": "Dai Token",
+  "website": "",
+  "description": "",
+  "explorer": "",
+  "type": "ERC20",
+  "symbol": "DAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3e778BceA6A4eCb57026eB215E7Bd03A27bde1ac",
+  "links": []
+}
